@@ -9,5 +9,10 @@ Bootstrap: Used for developing fast and responsive web pages.
 
 
 
-https://github.com/Aulascankaya/ResponsiveBootstrapSite-2Trial/assets/100851890/a5d15c6f-1931-4d6e-8c0f-bcf5fcecc14f
+
+
+https://github.com/Aulascankaya/ResponsiveBootstrapSite-2Trial/assets/100851890/f7543f6a-ec4c-479f-bf18-1ccc8e87f88d
+
+
+
 
